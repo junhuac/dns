@@ -1,0 +1,11 @@
+{
+	"lookup": "google.com",
+	"recordTypes": [
+	"A",
+	"CNAME",
+	"TXT",
+	"SRV",
+	"NS",
+	"MX"
+	]
+}

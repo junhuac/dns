@@ -1,0 +1,1 @@
+curl -i -v -X POST -H "Content-Type: application/json" -d "@request.json" -u "evocalize:evocalize" http://localhost:8080/admin/dns/
